@@ -31,11 +31,9 @@ as compared to their similar images, so we need to resize all of them
 in same scale or aspect ratio. Most of the images were taken in good
 lighting conditions while some were in bad lighting consitions. So, we
 have to normalize it.
-Most importantly, I found data leakage. I observed that the naming
+Most importantly, there was a data leakage. I observed that the naming
 conventions of images do have information that can tell us about their
-target. But, to keep competition fair, I didn't use it. But others used
-it just before half an hour when the competition ends due to which my
-ranking suffers little bit.  
+target. But, to keep competition fair, I didn't use it.
 
 
 --------------------------------------------------------------------------
